@@ -3,8 +3,6 @@
 <h3 align="center">A passionate python developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemanthsaich" alt="hemanthsaich" /></a> </p>
-
 - 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Python, Core Java, HTML, CSS, JavaScript**
