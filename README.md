@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on a ecommerce web app.<br>👯 Collaborating on Full stack web projects.<br>🤝 Need help with DB optimization.<br>🌱 Learning advanced Django.<br>💬 Ask about Django, RESTful APIs, React.
+🔭 Working on a ecommerce web app.<br>👯 Collaborating on Full stack web projects.<br>🤝 Need help with DB optimization.<br>🌱 Learning Spring.<br>💬 Ask about JDBC, JSP, Core Java.
 
 
 ## 🌐 Socials:
