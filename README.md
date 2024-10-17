@@ -1,5 +1,26 @@
 # 💫 About Me:
-🔭 Working on an e-commerce web app.<br>👯 Collaborating on Full Stack web projects.<br>🤝 Looking for opportunities to optimize databases.<br>🌱 Currently learning Spring Framework.<br>💬 Feel free to ask me about Core Java, JDBC, JSP, and Spring Boot.
+🔭 Working on an e-commerce web app.<br>👯 Collaborating on Full Stack web projects.<br>🤝 Looking for opportunities to optimize databases.<br>🌱 Currently learning Spring Framework.<br>💬 Feel free to ask me about Core Java, JDBC, JSP, Spring Boot, and Microservices.
+
+## 🚀 Projects:
+- **Ecommerce_shoping**: A secure, user-friendly e-commerce application inspired by Amazon for buyers and sellers. [GitHub Repo](https://github.com/hemanthsaich/OnlineShopingApp)
+- **P1-store-application**: Simplifies virtual shopping with a Java-based software for purchasing products. [GitHub Repo](https://github.com/hemanthsaich/StoreApplication)
+- **Revshop_p2**: Refactored RevShop into microservices with Spring Cloud, Eureka, Docker, and AWS. [GitHub Repo](https://github.com/hemanthsaich/Revshop_p2)
+
+## 🌱 Currently Learning:
+- Spring Framework and Spring Boot
+- Microservices architecture
+- Database optimization techniques
+- Docker, Kubernetes, and CI/CD with Jenkins
+
+## 🎯 Goals:
+- Build scalable microservices applications
+- Master cloud deployment using AWS and Kubernetes
+- Contribute to open-source projects in Java and web development
+
+## 🏅 Achievements:
+- Successfully transitioned monolithic projects to microservices architecture.
+- Developed an AI chatbot.
+- Achieved a GitHub streak for consistent coding and project updates.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/hemanthsai13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanthsaich) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hemanthsaich)
@@ -14,6 +35,10 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hemanthsaich&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+## ⚡ Fun Facts:
+- 🏋️‍♂️ Passionate about fitness and staying active with cardio.
+- 🕹️ Enjoy exploring new technology.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hemanthsaich&limit=5&theme=dark&combine_all_yearly_contributions=true)
