@@ -1,7 +1,7 @@
 # 💫 About Me
 🔭 **Currently Working On:** An e-commerce web application  
 👯 **Collaborating On:** Full Stack web projects  
-🤝 **Looking For:** Opportunities in database optimization  
+🤝 **Looking For:** Opportunities in software industry  
 🌱 **Currently Learning:** Spring Boot, Microservices
 
 
