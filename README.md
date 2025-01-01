@@ -52,10 +52,7 @@ I'm Hemanth Sai Chinthalapudi, a passionate developer with a focus on building s
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=hemanthsaich&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hemanthsaich&theme=tokyonight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthsaich&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ## ⚡ Fun Facts
