@@ -9,9 +9,9 @@
 I'm Hemanth Sai Chinthalapudi, a passionate developer with a focus on building scalable and secure web applications. I have hands-on experience in Java, Spring Boot, and Microservices, along with a strong interest in cloud deployment and CI/CD automation.
 
 ## 🚀 Projects
-- **[Ecommerce_shoping](https://github.com/hemanthsaich/OnlineShopingApp)**: A user-friendly, secure e-commerce application inspired by Amazon, designed for buyers and sellers.
-- **[P1-store-application](https://github.com/hemanthsaich/StoreApplication)**: Java-based software that simplifies virtual shopping, helping customers purchase products effortlessly.
-- **[Revshop_p2](https://github.com/hemanthsaich/Revshop_p2)**: Refactored RevShop into a microservices architecture with Spring Cloud, Eureka, Docker, and AWS for enhanced scalability.
+- **[Ecommerce Shoping](https://github.com/hemanthsaich/OnlineShopingApp)**: A user-friendly, secure e-commerce application inspired by Amazon, designed for buyers and sellers.
+- **[Store Application](https://github.com/hemanthsaich/StoreApplication)**: Java-based software that simplifies virtual shopping, helping customers purchase products effortlessly.
+- **[Microservices Ecommerce](https://github.com/hemanthsaich/Revshop_p2)**: Refactored RevShop into a microservices architecture with Spring Cloud, Eureka, Docker, and AWS for enhanced scalability.
 
 ## 🌱 Currently Learning
 - **Spring Framework & Spring Boot**
