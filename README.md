@@ -1,8 +1,9 @@
-# 💫 About Me
-🔭 **Currently Working On:** An e-commerce web application  
-👯 **Collaborating On:** Full Stack web projects  
-🤝 **Looking For:** Opportunities in software industry  
-🌱 **Currently Learning:** Spring Boot, Microservices
+# ✨ About Me
+
+🌌 **Currently Working On:** A fintech web application  
+🔷 **Collaborating On:** Open-source projects in web development  
+🤝 **Looking For:** Exciting roles in the software industry  
+🌱 **Currently Learning:** Kubernetes, Cloud Architecture
 
 
 I'm Hemanth Sai Chinthalapudi, a passionate developer with a focus on building scalable and secure web applications. I have hands-on experience in Java, Spring Boot, and Microservices, along with a strong interest in cloud deployment and CI/CD automation.
