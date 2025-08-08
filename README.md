@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/hemanthsaich/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:hemanthsai1566@gmail.com?subject=Project%20Collaboration%20Request&body=Hi%20Hemanth%2C%0A%0AI%20came%20across%20your%20profile%20and%20would%20like%20to%20discuss%20a%20potential%20project%20collaboration.%0A%0APlease%20let%20me%20know%20a%20convenient%20time%20for%20a%20call." target="_blank">
+  <a href="mailto:hemanthsai1566@gmail.com?subject=Project%20Collaboration%20Request" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
