@@ -64,7 +64,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hemchdev&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemchdev/hemchdev/output/pacman-contribution-graph-dark.svg">
