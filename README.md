@@ -1,6 +1,5 @@
 ![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fhemchdev7c799.png?alt=media)
 
-
 <br clear="both">
 
 <h1 align="left">Tech Stack</h1>
@@ -59,7 +58,6 @@
 </div>
 
 ###
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemchdev/hemchdev/output/pacman-contribution-graph-dark.svg">
