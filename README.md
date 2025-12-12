@@ -1,4 +1,8 @@
-![OpBento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fhemchdev1b50e.png?alt=media)
+
+<!-- BENTO_IMAGE -->
+![Daily Bento](https://firebasestorage.googleapis.com/v0/b/smartkaksha-fe32c.appspot.com/o/opbento%2Fhemchdev1b50e.png?alt=media)
+<!-- /BENTO_IMAGE -->
+
 <h1 align="left">Tech Stack</h1>
 
 ###
